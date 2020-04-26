@@ -6,7 +6,7 @@
  Responsive
  React, Charts.JS ve Material UI kullanarak geliştirilen Covid-19 Dünya geneli istatiksel bilgiler içeren proje.
 
-# Kullanılan API
+### Kullanılan API
 https://covid19.mathdro.id/api
 
 # Setup
