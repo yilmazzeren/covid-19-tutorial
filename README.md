@@ -8,5 +8,5 @@ React, Charts.JS ve Material UI kullanarak geliştirilen Covid-19 Dünya geneli 
 # Kullanılan API
 https://covid19.mathdro.id/api
 
-#Setup
+# Setup
 npm i && npm start
